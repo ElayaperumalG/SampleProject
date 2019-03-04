@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="10710" started-at="2019-03-04T05:40:53Z" finished-at="2019-03-04T05:41:04Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="10710" started-at="2019-03-04T05:40:53Z" finished-at="2019-03-04T05:41:04Z">
+      <class name="org.Insurance.tests.loginTest">
+        <test-method status="PASS" signature="enterCredentials()[pri:0, instance:org.Insurance.tests.loginTest@26be92ad]" name="enterCredentials" duration-ms="7092" started-at="2019-03-04T05:40:53Z" finished-at="2019-03-04T05:41:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterCredentials -->
+        <test-method status="PASS" signature="verifyTitle()[pri:1, instance:org.Insurance.tests.loginTest@26be92ad]" name="verifyTitle" duration-ms="3586" started-at="2019-03-04T05:41:00Z" finished-at="2019-03-04T05:41:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitle -->
+      </class> <!-- org.Insurance.tests.loginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
